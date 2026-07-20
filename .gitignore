@@ -9,6 +9,7 @@ infrastructure/wazuh-docker/**/wazuh-indexer-data/
 infrastructure/wazuh-docker/**/wazuh-manager-data/
 infrastructure/wazuh-docker/**/wazuh-dashboard-data/
 infrastructure/wazuh-docker/**/filebeat-data/
+Monitoring/wazuh-docker/
 
 # Environment and secret files
 .env
